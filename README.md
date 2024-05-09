@@ -2,7 +2,7 @@
 
 Calculate size of soybean
 
-reference : @MuhammadArdiPutra
+reference : [MuhammadArdiPutra](https://github.com/MuhammadArdiPutra/medium_articles/tree/main/Measuring%20Object%20Size%20with%20OpenCV)
 
 ## HOW
 * Use 30x30 paper for size comparison.
